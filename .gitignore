@@ -2,3 +2,4 @@
 emmapi-*
 test/fixtures/vcr_cassettes/*
 pkg/*
+.env.local
